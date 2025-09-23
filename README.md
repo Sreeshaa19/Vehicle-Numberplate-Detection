@@ -9,3 +9,6 @@ A deep learning project for real-time vehicle and number plate detection using Y
 
 All detailed working notebooks are stored in Google Drive:  
 [Click here to access the notebooks]("https://colab.research.google.com/drive/1z-D98WZ8g6aNbFqXhe5UB6lONduOydPo?usp=sharing")
+
+## Drive link of all the notes for this project
+[Click here to access the notebooks]("https://drive.google.com/drive/folders/1dTEAHqKoGVE_Yf3jeq2rtA0D6lua28oS?usp=sharing")
